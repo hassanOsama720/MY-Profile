@@ -5,13 +5,25 @@
 Enthusiastic software engineer looking forward to a position
 where I can enhance my skillset in web technologies specifically
 MERN|MEAN-STACK to develop and implement solutions to
-meet business needs
-Projects:
-  https://shipshop.netlify.app/ (React /NodeJS/ Redux/ MongoDB)(Graduation Project)
-  https://shipshop-admin.netlify.app/ 
-  https://movieo.netlify.app/ (React/ React-bootstrap/ fake-movies API) 
+meet business needs.
 
-Skills:  / REACT / Redux / Angular / NodeJs / Express / MongoDB / Bootstrap / Material UI / Sass / TypeScript / JS / HTML / CSS
+--------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------- Projects: --------------------------------------------------------------------
+
+  ===> https://shipshop.netlify.app/ (React /NodeJS/ Redux/ MongoDB)(Graduation Project)
+  
+  ===> https://shipshop-admin.netlify.app/ 
+  
+  ===> https://movieo.netlify.app/ (React/ React-bootstrap/ fake-movies API) 
+  
+---------------------------------------------------------------------------------------------------------------------------------  
+
+---------------------------------------------------------------------- Skills: --------------------------------------------------------------------
+
+ REACT / Redux / Angular / NodeJs / Express / MongoDB / Bootstrap / Material UI / Sass / TypeScript / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
